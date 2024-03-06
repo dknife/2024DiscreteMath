@@ -11,4 +11,4 @@
 
 이산수학 Express, 김대수, 생능출판사.
 
-[강의노트 1 - 이산수학이란](https://github.com/dknife/2024DiscreteMath/blob/main/LectureNotes/%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99_1%EC%9E%A5_%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99%EC%9D%98%20%EA%B0%9C%EC%9A%94.pdf)
+[강의노트 1 - 이산수학이란](https://github.com/dknife/2024DiscreteMath/raw/main/LectureNotes/%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99_1%EC%9E%A5_%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99%EC%9D%98%20%EA%B0%9C%EC%9A%94.pdf)
