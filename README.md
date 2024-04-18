@@ -25,3 +25,7 @@
 [강의노트 4 - 증명법](https://github.com/dknife/2024DiscreteMath/raw/main/LectureNotes/%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99_4%EC%9E%A5_%EC%A6%9D%EB%AA%85%EB%B2%95.pdf)
 
 [강의노트 5 - 배운 거 활용](https://github.com/dknife/2024DiscreteMath/raw/main/LectureNotes/%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99_4%EC%9E%A5%EA%B9%8C%EC%A7%80_%EB%B0%B0%EC%9A%B4%EA%B1%B0%ED%99%9C%EC%9A%A9.pdf)
+
+
+[강의노트 6 - 관계]()
+
