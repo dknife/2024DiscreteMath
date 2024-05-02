@@ -29,3 +29,5 @@
 
 [강의노트 6 - 관계](https://github.com/dknife/2024DiscreteMath/raw/main/LectureNotes/%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99_5%EC%9E%A5_%EA%B4%80%EA%B3%84.pdf)
 
+[강의노트 7 - 함수]()
+
