@@ -29,4 +29,7 @@
 
 [강의노트 6 - 관계](https://github.com/dknife/2024DiscreteMath/raw/main/LectureNotes/%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99_5%EC%9E%A5_%EA%B4%80%EA%B3%84.pdf)
 
+* [관계행렬 그리기](https://colab.research.google.com/drive/1Ios3TI31SBOrgT9r_S3X8al-6RuSKJ3K)
+
+  
 [강의노트 7 - 함수](https://github.com/dknife/2024DiscreteMath/blob/main/LectureNotes/%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99_6%EC%9E%A5_%ED%95%A8%EC%88%98.pdf)
