@@ -33,3 +33,5 @@
 
   
 [강의노트 7 - 함수](https://github.com/dknife/2024DiscreteMath/blob/main/LectureNotes/%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99_6%EC%9E%A5_%ED%95%A8%EC%88%98.pdf)
+
+*[함수그래프 그려보기](https://colab.research.google.com/drive/1YuJPTgAQhIPwaZwUYS9lSCCwFOtp3aFT?usp=sharing)
