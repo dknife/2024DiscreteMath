@@ -37,3 +37,5 @@
 * [함수그래프 그려보기](https://colab.research.google.com/drive/1YuJPTgAQhIPwaZwUYS9lSCCwFOtp3aFT?usp=sharing)
 
 [강의노트 8 - 그래프]()
+
+*[그래프 실습](https://colab.research.google.com/drive/1SNiOJHQnh3J2HhvwfBdrNVvGOkyWX1aC)
