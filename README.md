@@ -40,6 +40,6 @@
 
 * [그래프 실습](https://colab.research.google.com/drive/1SNiOJHQnh3J2HhvwfBdrNVvGOkyWX1aC)
 
-[강의노트 9 - 트리]()
+[강의노트 9 - 트리](https://github.com/dknife/2024DiscreteMath/blob/main/LectureNotes/%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99_8%EC%9E%A5_%ED%8A%B8%EB%A6%AC.pdf)
 
 *[트리 실습 - 완전이진트리인 우선순위 큐]()
