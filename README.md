@@ -39,3 +39,7 @@
 [강의노트 8 - 그래프](https://github.com/dknife/2024DiscreteMath/blob/main/LectureNotes/%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99_7%EC%9E%A5_%EA%B7%B8%EB%9E%98%ED%94%84.pdf)
 
 * [그래프 실습](https://colab.research.google.com/drive/1SNiOJHQnh3J2HhvwfBdrNVvGOkyWX1aC)
+
+[강의노트 9 - 트리]()
+
+*[트리 실습 - 완전이진트리인 우선순위 큐]()
