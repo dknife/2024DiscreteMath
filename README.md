@@ -44,7 +44,7 @@
 
 * [트리 실습 - 완전이진트리인 우선순위 큐](https://colab.research.google.com/drive/1ayTLkSKVysrfNnm1ThFs8uX8JRIOGUM2#scrollTo=BiVKeiOXXiEq)
 
-[강의노트 10 - 순열조합과 재귀]()
+[강의노트 10 - 순열조합과 재귀](https://github.com/dknife/2024DiscreteMath/blob/main/LectureNotes/%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99_9%EC%9E%A5_%EC%88%9C%EC%97%B4%EC%9D%B4%EC%82%B0%EC%A0%81%20%ED%99%95%EB%A5%A0%EC%9E%AC%EA%B7%80%EC%A0%81%20%EA%B4%80%EA%B3%84.pdf)
 
 * [순열조합 실습](https://colab.research.google.com/drive/1jt-8t38VCgcBAXL9O27mQxD1H23crKr1#scrollTo=-wFWCYvsNQc0)
 * [재귀호출을 이용한 하노이 탑 문제 풀이 실습](https://github.com/dknife/2024DiscreteMath/tree/main/LectureNotes/hanoi)
