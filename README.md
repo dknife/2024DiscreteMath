@@ -47,4 +47,4 @@
 [강의노트 10 - 순열조합과 재귀]()
 
 * [순열조합 실습](https://colab.research.google.com/drive/1jt-8t38VCgcBAXL9O27mQxD1H23crKr1#scrollTo=-wFWCYvsNQc0)
-* [재귀호출을 이용한 하노이 탑 문제 풀이 실습]()
+* [재귀호출을 이용한 하노이 탑 문제 풀이 실습](https://github.com/dknife/2024DiscreteMath/tree/main/LectureNotes/hanoi)
