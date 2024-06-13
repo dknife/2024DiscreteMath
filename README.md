@@ -43,3 +43,8 @@
 [강의노트 9 - 트리](https://github.com/dknife/2024DiscreteMath/blob/main/LectureNotes/%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99_8%EC%9E%A5_%ED%8A%B8%EB%A6%AC.pdf)
 
 * [트리 실습 - 완전이진트리인 우선순위 큐](https://colab.research.google.com/drive/1ayTLkSKVysrfNnm1ThFs8uX8JRIOGUM2#scrollTo=BiVKeiOXXiEq)
+
+[강의노트 10 - 순열조합과 재귀]()
+
+* [순열조합 실습]()
+* [재귀호출을 이용한 하노이 탑 문제 풀이 실습]()
